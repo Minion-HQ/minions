@@ -8,3 +8,9 @@ function closeNav() {
   document.getElementById("main").style.marginLeft= "0";
 }
 
+function Signin() {
+  window.alert("Welcome Back!");
+}
+function SignOut() {
+  window.alert("Farewell.");
+}
