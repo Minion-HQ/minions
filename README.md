@@ -24,3 +24,9 @@ Official Site: <a href="https://banana-corp.tk/minions">https://banana-corp.tk/m
 Fork this repo, Settings, Pages, Done!
 
 ### FAQ
+
+#### **Q: Why Did "Banana-nana" make this repo/Hub**
+
+A: The reason why I made this is that I want to Make Deploying thing is a hasle and you need to sign up and lots of other thing so this Project will help it make more easy so yeah that is the reasoning for this.
+[Click here for how 2 make](#how-2-deploy-minion-hub)
+
