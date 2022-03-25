@@ -12,7 +12,7 @@ Minion Hub, I made this as a joke now its a real thing it incudles SM64, Friday 
 - Discord.com
 - Google.com
 - Reddit.com
-- and many more!!!!
+- and many more!
 
 
 Official Site: <a href="https://banana-corp.tk/minions">https://banana-corp.tk/minions</a>
