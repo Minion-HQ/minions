@@ -1,0 +1,28 @@
+{
+	"name": "FNAF 1",
+	"short_name": "FNAF 1",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"icons": [{
+		"src": "icon16.png",
+		"sizes": "16x16",
+		"type": "image/png"
+	}, {
+		"src": "icon32.png",
+		"sizes": "32x32",
+		"type": "image/png"
+	}, {
+		"src": "icon128.png",
+		"sizes": "128x128",
+		"type": "image/png"
+	}, {
+		"src": "icon144.png",
+		"sizes": "144x144",
+		"type": "image/png"
+	}, {
+		"src": "icon248.png",
+		"sizes": "256x256",
+		"type": "image/png"
+	}]
+}
