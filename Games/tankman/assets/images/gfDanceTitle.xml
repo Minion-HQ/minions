@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tankmanCaptain.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfDance0000" x="923" y="1676" width="426" height="554" frameX="-301" frameY="-19" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="gfDance0001" x="923" y="1676" width="426" height="554" frameX="-301" frameY="-19" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="gfDance0002" x="2905" y="1567" width="428" height="556" frameX="-300" frameY="-17" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="gfDance0003" x="2905" y="1567" width="428" height="556" frameX="-300" frameY="-17" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="gfDance0004" x="3643" y="0" width="425" height="560" frameX="-305" frameY="-13" frameWidth="432" frameHeight="573"/>
+
+</TextureAtlas>
